@@ -8,3 +8,13 @@ c:\Users\Igor\Documents\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInpu
 c:\Users\Igor\Documents\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
 c:\Users\Igor\Documents\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
 c:\Users\Igor\Documents\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\Igor\Documents\TODO-API\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\Igor\Documents\TODO-API\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\Igor\Documents\TODO-API\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\Igor\Documents\TODO-API\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\Igor\Documents\TODO-API\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\Igor\Documents\TODO-API\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Documents\TODO-API\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\TODO-API\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\Igor\Documents\TODO-API\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\Igor\Documents\TODO-API\obj\Debug\netcoreapp2.0\TodoApi.pdb

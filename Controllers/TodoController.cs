@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TodoApi.Models;
 
@@ -21,6 +22,7 @@ namespace TodoApi.Controllers
             }
         }
 
+        [Authorize("Bearer")]
         [HttpGet]
         public IEnumerable<TodoItem> GetAll()
         {
